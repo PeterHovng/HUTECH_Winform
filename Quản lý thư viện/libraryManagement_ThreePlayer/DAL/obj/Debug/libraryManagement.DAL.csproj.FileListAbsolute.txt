@@ -1,0 +1,36 @@
+C:\Users\ADMIN\Documents\LapTrinh_Windows\libraryManagement_ThreePlayer\DAL\bin\Debug\DAL.dll.config
+C:\Users\ADMIN\Documents\LapTrinh_Windows\libraryManagement_ThreePlayer\DAL\bin\Debug\DAL.dll
+C:\Users\ADMIN\Documents\LapTrinh_Windows\libraryManagement_ThreePlayer\DAL\bin\Debug\DAL.pdb
+C:\Users\ADMIN\Documents\LapTrinh_Windows\libraryManagement_ThreePlayer\DAL\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\Documents\LapTrinh_Windows\libraryManagement_ThreePlayer\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Documents\LapTrinh_Windows\libraryManagement_ThreePlayer\DAL\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\Documents\LapTrinh_Windows\libraryManagement_ThreePlayer\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Documents\LapTrinh_Windows\libraryManagement_ThreePlayer\DAL\obj\Debug\libraryManagement.DAL.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\LapTrinh_Windows\libraryManagement_ThreePlayer\DAL\obj\Debug\libraryManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\LapTrinh_Windows\libraryManagement_ThreePlayer\DAL\obj\Debug\libraryM.8E9C5FED.Up2Date
+C:\Users\ADMIN\Documents\LapTrinh_Windows\libraryManagement_ThreePlayer\DAL\obj\Debug\DAL.dll
+C:\Users\ADMIN\Documents\LapTrinh_Windows\libraryManagement_ThreePlayer\DAL\obj\Debug\DAL.pdb
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\DAL\bin\Debug\DAL.dll.config
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\DAL\bin\Debug\DAL.dll
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\DAL\bin\Debug\DAL.pdb
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\DAL\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\DAL\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\DAL\obj\Debug\libraryManagement.DAL.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\DAL\obj\Debug\libraryManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\DAL\obj\Debug\libraryM.8E9C5FED.Up2Date
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\DAL\obj\Debug\DAL.dll
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\DAL\obj\Debug\DAL.pdb
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\DAL\bin\Debug\DAL.dll.config
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\DAL\bin\Debug\DAL.dll
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\DAL\bin\Debug\DAL.pdb
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\DAL\bin\Debug\EntityFramework.dll
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\DAL\bin\Debug\EntityFramework.xml
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\DAL\obj\Debug\libraryManagement.DAL.csproj.AssemblyReference.cache
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\DAL\obj\Debug\libraryManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\DAL\obj\Debug\libraryM.8E9C5FED.Up2Date
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\DAL\obj\Debug\DAL.dll
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\DAL\obj\Debug\DAL.pdb

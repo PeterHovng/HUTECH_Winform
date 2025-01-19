@@ -1,0 +1,112 @@
+C:\Users\ADMIN\Documents\LapTrinh_Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\bin\Debug\libraryManagement_ThreePlayer.exe.config
+C:\Users\ADMIN\Documents\LapTrinh_Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\bin\Debug\libraryManagement_ThreePlayer.exe
+C:\Users\ADMIN\Documents\LapTrinh_Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\bin\Debug\libraryManagement_ThreePlayer.pdb
+C:\Users\ADMIN\Documents\LapTrinh_Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\bin\Debug\BUS.dll
+C:\Users\ADMIN\Documents\LapTrinh_Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\bin\Debug\DAL.dll
+C:\Users\ADMIN\Documents\LapTrinh_Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\Documents\LapTrinh_Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Documents\LapTrinh_Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\bin\Debug\BUS.pdb
+C:\Users\ADMIN\Documents\LapTrinh_Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\bin\Debug\BUS.dll.config
+C:\Users\ADMIN\Documents\LapTrinh_Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\bin\Debug\DAL.pdb
+C:\Users\ADMIN\Documents\LapTrinh_Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\bin\Debug\DAL.dll.config
+C:\Users\ADMIN\Documents\LapTrinh_Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\Documents\LapTrinh_Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Documents\LapTrinh_Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement.GUI.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\LapTrinh_Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.frmAuthors.resources
+C:\Users\ADMIN\Documents\LapTrinh_Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.frmBooks.resources
+C:\Users\ADMIN\Documents\LapTrinh_Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.Books.frmBooksTool.resources
+C:\Users\ADMIN\Documents\LapTrinh_Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.frmBorrows.resources
+C:\Users\ADMIN\Documents\LapTrinh_Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.frmLogin.resources
+C:\Users\ADMIN\Documents\LapTrinh_Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.frmManagement.resources
+C:\Users\ADMIN\Documents\LapTrinh_Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.frmReaders.resources
+C:\Users\ADMIN\Documents\LapTrinh_Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.frmWelcome.resources
+C:\Users\ADMIN\Documents\LapTrinh_Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.Properties.Resources.resources
+C:\Users\ADMIN\Documents\LapTrinh_Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement.GUI.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\LapTrinh_Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement.GUI.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\LapTrinh_Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryM.8826E50B.Up2Date
+C:\Users\ADMIN\Documents\LapTrinh_Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.exe
+C:\Users\ADMIN\Documents\LapTrinh_Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.pdb
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\bin\Debug\libraryManagement_ThreePlayer.exe
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\bin\Debug\libraryManagement_ThreePlayer.pdb
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\bin\Debug\BUS.dll
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\bin\Debug\DAL.dll
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\bin\Debug\BUS.pdb
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\bin\Debug\DAL.pdb
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\bin\Debug\DAL.dll.config
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement.GUI.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.frmAuthors.resources
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.frmBooks.resources
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.frmManagement.resources
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.frmLogin.resources
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.frmReaders.resources
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement.GUI.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement.GUI.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryM.8826E50B.Up2Date
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.exe
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.pdb
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\bin\Debug\RJCodeAdvance.RJControls.dll
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.Authors.frmAuthorTools.resources
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.Books.frmBookTools.resources
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.Readers.frmReaderTools.resources
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\bin\Debug\libraryManagement_ThreePlayer.exe.config
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\bin\Debug\BUS.dll.config
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.Account.frmStaffs.resources
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.Account.frmStaffTools.resources
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.PhieuMuon.frmMuon.resources
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.PhieuMuon.frmMuonTools.resources
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.PhieuMuon.frmBookList.resources
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.PhieuMuon.frmReaderList.resources
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.PhieuTra.frmTra.resources
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.PhieuPhat.frmPhat.resources
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.PhieuPhat.frmPhatTools.resources
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.PhieuTra.frmTraTools.resources
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.TheLoai.frmTheLoai.resources
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.TheLoai.frmTheLoaiTools.resources
+C:\Users\ADMIN\Desktop\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.PhieuTra.frmMuonList.resources
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\bin\Debug\libraryManagement_ThreePlayer.exe.config
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\bin\Debug\libraryManagement_ThreePlayer.exe
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\bin\Debug\libraryManagement_ThreePlayer.pdb
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\bin\Debug\BUS.dll
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\bin\Debug\DAL.dll
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\bin\Debug\EntityFramework.dll
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\bin\Debug\RJCodeAdvance.RJControls.dll
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\bin\Debug\BUS.pdb
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\bin\Debug\BUS.dll.config
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\bin\Debug\DAL.pdb
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\bin\Debug\DAL.dll.config
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\bin\Debug\EntityFramework.xml
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement.GUI.csproj.AssemblyReference.cache
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.Account.frmStaffs.resources
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.Account.frmStaffTools.resources
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.frmAuthors.resources
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.Authors.frmAuthorTools.resources
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.frmBooks.resources
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.Books.frmBookTools.resources
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.frmManagement.resources
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.frmLogin.resources
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.PhieuMuon.frmReaderList.resources
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.PhieuMuon.frmBookList.resources
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.PhieuMuon.frmMuon.resources
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.PhieuMuon.frmMuonTools.resources
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.PhieuPhat.frmPhat.resources
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.PhieuPhat.frmPhatTools.resources
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.PhieuTra.frmMuonList.resources
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.PhieuTra.frmTra.resources
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.PhieuTra.frmTraTools.resources
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.frmReaders.resources
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.Properties.Resources.resources
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.Readers.frmReaderTools.resources
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.TheLoai.frmTheLoai.resources
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.TheLoai.frmTheLoaiTools.resources
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement.GUI.csproj.GenerateResource.cache
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement.GUI.csproj.CoreCompileInputs.cache
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryM.8826E50B.Up2Date
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.exe
+C:\Users\garan\Downloads\Đồ án môn học - Lập trình Windows-20250119T170331Z-001\Đồ án môn học - Lập trình Windows\libraryManagement_ThreePlayer\libraryManagement_ThreePlayer\obj\Debug\libraryManagement_ThreePlayer.pdb

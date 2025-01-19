@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\garan\\Downloads\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc - L\u1EADp tr\u00ECnh Windows-20250119T170331Z-001\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc - L\u1EADp tr\u00ECnh Windows\\libraryManagement_ThreePlayer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77B91042-2A15-4658-AC90-398C5A996AAC}|libraryManagement_ThreePlayer\\libraryManagement.GUI.csproj|c:\\users\\garan\\downloads\\\u0111\u1ED3 \u00E1n m\u00F4n h\u1ECDc - l\u1EADp tr\u00ECnh windows-20250119t170331z-001\\\u0111\u1ED3 \u00E1n m\u00F4n h\u1ECDc - l\u1EADp tr\u00ECnh windows\\librarymanagement_threeplayer\\librarymanagement_threeplayer\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{77B91042-2A15-4658-AC90-398C5A996AAC}|libraryManagement_ThreePlayer\\libraryManagement.GUI.csproj|solutionrelative:librarymanagement_threeplayer\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932CD6E3-C54E-491D-91DA-5C31B3074093}|DAL\\libraryManagement.DAL.csproj|c:\\users\\garan\\downloads\\\u0111\u1ED3 \u00E1n m\u00F4n h\u1ECDc - l\u1EADp tr\u00ECnh windows-20250119t170331z-001\\\u0111\u1ED3 \u00E1n m\u00F4n h\u1ECDc - l\u1EADp tr\u00ECnh windows\\librarymanagement_threeplayer\\dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{932CD6E3-C54E-491D-91DA-5C31B3074093}|DAL\\libraryManagement.DAL.csproj|solutionrelative:dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3F2ABD-E137-43CA-B6D6-1EF0A552583C}|BUS\\libraryManagement.BUS.csproj|c:\\users\\garan\\downloads\\\u0111\u1ED3 \u00E1n m\u00F4n h\u1ECDc - l\u1EADp tr\u00ECnh windows-20250119t170331z-001\\\u0111\u1ED3 \u00E1n m\u00F4n h\u1ECDc - l\u1EADp tr\u00ECnh windows\\librarymanagement_threeplayer\\bus\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EF3F2ABD-E137-43CA-B6D6-1EF0A552583C}|BUS\\libraryManagement.BUS.csproj|solutionrelative:bus\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3F2ABD-E137-43CA-B6D6-1EF0A552583C}|BUS\\libraryManagement.BUS.csproj|c:\\users\\garan\\downloads\\\u0111\u1ED3 \u00E1n m\u00F4n h\u1ECDc - l\u1EADp tr\u00ECnh windows-20250119t170331z-001\\\u0111\u1ED3 \u00E1n m\u00F4n h\u1ECDc - l\u1EADp tr\u00ECnh windows\\librarymanagement_threeplayer\\bus\\staffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3F2ABD-E137-43CA-B6D6-1EF0A552583C}|BUS\\libraryManagement.BUS.csproj|solutionrelative:bus\\staffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B91042-2A15-4658-AC90-398C5A996AAC}|libraryManagement_ThreePlayer\\libraryManagement.GUI.csproj|c:\\users\\garan\\downloads\\\u0111\u1ED3 \u00E1n m\u00F4n h\u1ECDc - l\u1EADp tr\u00ECnh windows-20250119t170331z-001\\\u0111\u1ED3 \u00E1n m\u00F4n h\u1ECDc - l\u1EADp tr\u00ECnh windows\\librarymanagement_threeplayer\\librarymanagement_threeplayer\\frmmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77B91042-2A15-4658-AC90-398C5A996AAC}|libraryManagement_ThreePlayer\\libraryManagement.GUI.csproj|solutionrelative:librarymanagement_threeplayer\\frmmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.Config",
+              "DocumentMoniker": "C:\\Users\\garan\\Downloads\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc - L\u1EADp tr\u00ECnh Windows-20250119T170331Z-001\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc - L\u1EADp tr\u00ECnh Windows\\libraryManagement_ThreePlayer\\libraryManagement_ThreePlayer\\App.Config",
+              "RelativeDocumentMoniker": "libraryManagement_ThreePlayer\\App.Config",
+              "ToolTip": "C:\\Users\\garan\\Downloads\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc - L\u1EADp tr\u00ECnh Windows-20250119T170331Z-001\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc - L\u1EADp tr\u00ECnh Windows\\libraryManagement_ThreePlayer\\libraryManagement_ThreePlayer\\App.Config",
+              "RelativeToolTip": "libraryManagement_ThreePlayer\\App.Config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-19T17:09:50.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.Config",
+              "DocumentMoniker": "C:\\Users\\garan\\Downloads\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc - L\u1EADp tr\u00ECnh Windows-20250119T170331Z-001\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc - L\u1EADp tr\u00ECnh Windows\\libraryManagement_ThreePlayer\\DAL\\App.Config",
+              "RelativeDocumentMoniker": "DAL\\App.Config",
+              "ToolTip": "C:\\Users\\garan\\Downloads\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc - L\u1EADp tr\u00ECnh Windows-20250119T170331Z-001\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc - L\u1EADp tr\u00ECnh Windows\\libraryManagement_ThreePlayer\\DAL\\App.Config*",
+              "RelativeToolTip": "DAL\\App.Config*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-19T17:09:43.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.Config",
+              "DocumentMoniker": "C:\\Users\\garan\\Downloads\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc - L\u1EADp tr\u00ECnh Windows-20250119T170331Z-001\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc - L\u1EADp tr\u00ECnh Windows\\libraryManagement_ThreePlayer\\BUS\\App.Config",
+              "RelativeDocumentMoniker": "BUS\\App.Config",
+              "ToolTip": "C:\\Users\\garan\\Downloads\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc - L\u1EADp tr\u00ECnh Windows-20250119T170331Z-001\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc - L\u1EADp tr\u00ECnh Windows\\libraryManagement_ThreePlayer\\BUS\\App.Config*",
+              "RelativeToolTip": "BUS\\App.Config*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-19T17:09:35.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StaffService.cs",
+              "DocumentMoniker": "C:\\Users\\garan\\Downloads\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc - L\u1EADp tr\u00ECnh Windows-20250119T170331Z-001\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc - L\u1EADp tr\u00ECnh Windows\\libraryManagement_ThreePlayer\\BUS\\StaffService.cs",
+              "RelativeDocumentMoniker": "BUS\\StaffService.cs",
+              "ToolTip": "C:\\Users\\garan\\Downloads\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc - L\u1EADp tr\u00ECnh Windows-20250119T170331Z-001\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc - L\u1EADp tr\u00ECnh Windows\\libraryManagement_ThreePlayer\\BUS\\StaffService.cs",
+              "RelativeToolTip": "BUS\\StaffService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAArwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T17:09:24.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmManagement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\garan\\Downloads\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc - L\u1EADp tr\u00ECnh Windows-20250119T170331Z-001\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc - L\u1EADp tr\u00ECnh Windows\\libraryManagement_ThreePlayer\\libraryManagement_ThreePlayer\\frmManagement.cs",
+              "RelativeDocumentMoniker": "libraryManagement_ThreePlayer\\frmManagement.cs",
+              "ToolTip": "C:\\Users\\garan\\Downloads\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc - L\u1EADp tr\u00ECnh Windows-20250119T170331Z-001\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc - L\u1EADp tr\u00ECnh Windows\\libraryManagement_ThreePlayer\\libraryManagement_ThreePlayer\\frmManagement.cs [Design]",
+              "RelativeToolTip": "libraryManagement_ThreePlayer\\frmManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T17:07:52.878Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
